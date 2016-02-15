@@ -1,3 +1,6 @@
+Survey notation/camera standarisation bar for fieldworkers!
+==========================
+
 Ever had to undertake surveys in which you had to photograph numerous quadrats, using different cameras or even by different surveyors? In this case, you might want to try making a colour scale bar that can be used across surveys.
 
 To achieve this, I created a small colour scale that can be added to the edge of quadrats, or even used freestyle! It consists of two plastic parts, and a laminated print that incorporates a free note field, a date field, a 50mm scale and a graduated colour/gray scale test bar that can be used to check and standardise camera settings.
