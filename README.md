@@ -1,4 +1,4 @@
-Survey notation/camera standarisation bar for fieldworkers!
+Survey notation/camera standardisation bar for fieldworkers!
 ==========================
 
 Ever had to undertake surveys in which you had to photograph numerous quadrats, using different cameras or even by different surveyors? In this case, you might want to try making a colour scale bar that can be used across surveys.
