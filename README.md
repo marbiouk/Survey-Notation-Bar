@@ -1,9 +1,11 @@
-Survey notation/camera standardisation bar for fieldworkers!
+Survey notation/camera standardisation bar
 ==========================
 
-Ever had to undertake surveys in which you had to photograph numerous quadrats, using different cameras or even by different surveyors? In this case, you might want to try making a colour scale bar that can be used across surveys.
+Ever had to undertake surveys in which you had to photograph numerous quadrats, using different cameras or even by different surveyors? In this case, you might want to try making a colour scale bar that can be used across surveys and surveyors.
 
-To achieve this, I created a small colour scale that can be added to the edge of quadrats, or even used freestyle! It consists of two plastic parts, and a laminated print that incorporates a free note field, a date field, a 50mm scale and a graduated colour/gray scale test bar that can be used to check and standardise camera settings.
+To achieve this, I created a small colour scale that can be added to the edge of quadrats, or even used freestyle! It consists of two plastic parts, and a laminated print that incorporates a free note field, a date field, a 50mm scale and a graduated colour/gray scale test bar that can be used to check and standardise camera settings. See the photo below!
+
+![Image of survey notation bar](https://github.com/marbiouk/Survey-Notation-Bar/blob/master/Photograph_of_constructed_device.jpg)
 
 ####Files provided
 * Colour_scale.psd
@@ -33,7 +35,7 @@ To achieve this, I created a small colour scale that can be added to the edge of
 * Superglue
 
 ####Guide
-1. Using a colour printer, print our the print layer from Survey_Bar.pdf, trim to the outer rectangle using scissors or a craft knife.
+1. Using a colour printer, print out the print layer from Survey_Bar.pdf, trim to the outer rectangle using scissors or a craft knife.
 2. Laminate this using a laminator and laminating film, and then trim that. Make sure you leave about 5 mm of plastic around the outside of the trimmed part. This will allow you to stick it well inbetween the acrylic sheets.
 3. Laser cut the acrylic shapes, you should have a bottom part and a top part.
 4. Stick the printed bar to the bottom plate, using superglue and then position the top part, to create a sandwich with the laminated paper in the middle. You can use cable ties to secure the two parts together until the glue dries.
